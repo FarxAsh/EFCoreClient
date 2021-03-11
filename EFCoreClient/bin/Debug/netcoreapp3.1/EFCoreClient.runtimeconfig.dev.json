@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\farxa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\farxa\\.nuget\\packages"
+    ]
+  }
+}
